@@ -11,12 +11,12 @@ A lightweight Linux utility written in Bash for creating and restoring encrypted
 
 ## Installation
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/alinskij/sbt.git
    ```
 2. Copy the script to `/usr/local/bin`:
-   ```bash
-   cd sbt; sudo cp sbt /usr/local/bin/sbt; sudo chmod +x /usr/local/bin/sbt
+   ```
+   cd sbt; sudo cp sbt /usr/local/bin/sbt
    ```
 3. Ensure dependencies are installed (see below).
 
