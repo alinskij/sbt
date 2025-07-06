@@ -1,3 +1,5 @@
+[GIF](demo.gif)
+
 # Simple Backup Tool (sbt)
 A lightweight Linux utility written in Bash for creating and restoring encrypted backups using `tar.xz` and GPG.
 
